@@ -1,2 +1,2 @@
 # Customer-behavior-orders
-Data Analyst project
+Data Analyst project (begineer)
